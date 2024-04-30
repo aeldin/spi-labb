@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="029c9bfa-e436-4460-a1e1-aaad7336f20f" name="Changes" comment="A lot of things">
+    <list default="true" id="029c9bfa-e436-4460-a1e1-aaad7336f20f" name="Changes" comment="Add classes and updated modules-infos.&#10;Add Dockerfile">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/provider/src/main/java/org/example/provider/SEKDollarConverter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/provider/src/main/java/org/example/provider/SEKEuroConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -25,6 +26,7 @@
         <option value="Interface" />
         <option value="module-info" />
         <option value="Class" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -105,7 +107,7 @@
       <workItem from="1713512747796" duration="8192000" />
       <workItem from="1713952506859" duration="4414000" />
       <workItem from="1713965908652" duration="1504000" />
-      <workItem from="1714456444189" duration="1968000" />
+      <workItem from="1714456444189" duration="2287000" />
     </task>
     <task id="LOCAL−00001" summary="A lot of things">
       <option name="closed" value="true" />
@@ -129,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A lot of things" />
-    <option name="LAST_COMMIT_MESSAGE" value="A lot of things" />
+    <MESSAGE value="Add classes and updated modules-infos.&#10;Add Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add classes and updated modules-infos.&#10;Add Dockerfile" />
   </component>
 </project>
