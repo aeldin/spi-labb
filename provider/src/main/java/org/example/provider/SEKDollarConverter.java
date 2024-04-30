@@ -1,15 +1,20 @@
 package org.example.provider;
+
 import org.example.service.CurrencyConverter;
 
-public class SEKDollarConverter implements org.example.service.CurrencyConverter {
+public class SEKDollarConverter implements CurrencyConverter {
     @Override
-    public double convert(double amount, String fromCurrency, String toCurrency) {
-        if (fromCurrency.equals("SEK") && toCurrency.equals("USD")) {
-            return amount * 0.11;
+    public double convert(double amount, String fromCurrency) {
+        if (fromCurrency.equals("SEK")) {
+            return amount * 0.11; // Convert SEK to USD
         } else {
-            // Handle other currency conversions if needed
             return 0.0;
         }
+    }
+
+    @Override
+    public String getTargetCurrency() {
+        return "USD";
     }
 }
 
