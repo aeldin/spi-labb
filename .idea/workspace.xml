@@ -4,24 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="029c9bfa-e436-4460-a1e1-aaad7336f20f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/src/main/java/org/example/consumer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/src/main/java/org/example/provider/SwedishGreeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/org/example/service/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/org/example/service/internal/Hidden.java" afterDir="false" />
+    <list default="true" id="029c9bfa-e436-4460-a1e1-aaad7336f20f" name="Changes" comment="A lot of things">
+      <change afterPath="$PROJECT_DIR$/provider/src/main/java/org/example/provider/SEKDollarConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider/src/main/java/org/example/provider/SEKEuroConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/org/example/consumer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/org/example/consumer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/src/main/java/org/example/provider/SwedishGreeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,11 +105,30 @@
       <workItem from="1713512747796" duration="8192000" />
       <workItem from="1713952506859" duration="4414000" />
       <workItem from="1713965908652" duration="1504000" />
-      <workItem from="1714456444189" duration="479000" />
+      <workItem from="1714456444189" duration="1968000" />
     </task>
+    <task id="LOCAL−00001" summary="A lot of things">
+      <option name="closed" value="true" />
+      <created>1714456932449</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1714456932449</updated>
+    </task>
+    <task id="LOCAL−00002" summary="A lot of things">
+      <option name="closed" value="true" />
+      <created>1714456945468</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1714456945468</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A lot of things" />
+    <option name="LAST_COMMIT_MESSAGE" value="A lot of things" />
   </component>
 </project>

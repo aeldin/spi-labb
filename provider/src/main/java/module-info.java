@@ -1,8 +1,7 @@
-import org.example.provider.SwedishGreeting;
-import org.example.service.CurrencyConverter;
+import org.example.provider.SEKDollarConverter;
 
-module org.example.provider.Greeting {
+module org.example.provider {
     requires org.example.service;
-
-    provides CurrencyConverter with SwedishGreeting;
+    provides org.example.service.CurrencyConverter with org.example.provider.SEKDollarConverter, org.example.provider.SEKEuroConverter;
 }
+
